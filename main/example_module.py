@@ -42,4 +42,4 @@ class ExampleModuleClass:
 
     def do_something(self):
         """Do something."""
-        print("Hello from Example Module Class.")
+        print("Hello from OTA Updater Example Module Class.")
