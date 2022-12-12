@@ -35,7 +35,7 @@ class ExampleModuleClass:
     """An Example Module Class"""
 	
     def __init__(self):
-        continue
+        pass
     
     def __call__(self):
         return self
